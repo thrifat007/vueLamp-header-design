@@ -31,12 +31,13 @@ In This repository I tried to make a website's header section step by step using
 ## How To Use
 
 #### Installation
-```html
+```github
     $ https://github.com/thrifat007/vueLamp-header-design.git
 ```
 
 ## References
-[Back To The Top](#read-me-template)
+- Facebook - [@thrifat007](https://facebook.com/thrifat007)
+- Website - [Tasnimul Hasan Rifat](https://tasnimulhasan.com)
 
 ---
 
